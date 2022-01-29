@@ -44,7 +44,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&show_icons=true&theme=buefylangs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
 
 
