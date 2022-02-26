@@ -40,8 +40,8 @@
 <br>
 <h3>Statistical Data :-</h3>
 
-[![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmond22-prog&count_private=true&show_icons=true&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
+[![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngimdock&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
 
 
