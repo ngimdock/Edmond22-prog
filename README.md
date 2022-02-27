@@ -15,6 +15,7 @@
   <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
   <img src="https://i.ibb.co/jM9qhbC/26react-1-removebg-preview-1.png" alt="26react-1-removebg-preview-1" border="0" height="55" width="60">
   <img src="https://i.ibb.co/HH2PFD7/16redux.png" alt="16redux" border="0" height="55" width="55">
+  <img src="https://i.ibb.co/Q9X4q5W/16tailwind-removebg-preview.png" alt="16tailwind-removebg-preview" border="0" height="55" width="55">
 </div>
 <br>
 
