@@ -23,7 +23,7 @@
 </p>
 
 <br>
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
@@ -35,7 +35,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
-<br> -->
+<br>
 <h3>MES STATISTIQUES:-</h3>
 
 [![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
