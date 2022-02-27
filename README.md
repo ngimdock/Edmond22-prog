@@ -23,9 +23,9 @@
 </p>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -33,12 +33,12 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) -->
 
 <br>
-<h3>MES STATISTIQUES:-</h3>
+<h3>MES STATISTIQUES :</h3>
 
-[![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
+[![ngimdock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngimdock&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
 
