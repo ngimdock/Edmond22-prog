@@ -5,11 +5,11 @@
 <h3 align="center">Je suis un grand passionné du développement frontend</h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Edghi" /></p>
 
-- 🌳 Je développe des sites et applications web avec des technologies à la pointe REACT | REDUX | TAILWIND CSS | FIREBASE
-
-- 📩 Envoyez moi un mail **ngimdock.zemfack@facsciences-uy1.cm**
-
-- 📈 Activité secondaire : WEB DESIGN & SEO OPTIMISATION
+▪️ 🌳 Je développe des sites et applications web avec des technologies à la pointe REACT | REDUX | TAILWIND CSS | FIREBASE
+ 
+▪️ 📩 Envoyez moi un mail **ngimdock.zemfack@facsciences-uy1.cm**
+ 
+▪️ 📈 Activité secondaire : WEB DESIGN & SEO OPTIMISATION
  
 <div style=" justify-content: space-between; align-items: center">
   <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
