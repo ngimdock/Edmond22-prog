@@ -10,24 +10,25 @@
 - 📩 Envoyez moi un mail **ngimdock.zemfack@facsciences-uy1.cm**
 
 - 📈 Activité secondaire : WEB DESIGN & SEO OPTIMISATION
+  
+<h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
+   <a href="https://twitter.com/NZemfack" target="blank"><img align="center"
+      src="https://i.ibb.co/DQvZ4b0/1-react-2.png"
+      alt="edghi" height="20" width="30" /></a>
+<br>
 
 <br>
 <h3 align="left">MOI SUR LES RESEAUX :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ngimdock-zemfack/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="edghi" height="60" width="60" /></a>
+      alt="edghi" height="35" width="35" /></a>
    <a href="https://twitter.com/NZemfack" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="edghi" height="20" width="30" /></a>
+      alt="edghi" height="35" width="35" /></a>
 </p>
+<br>
 
-<br>
-<h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
-   <a href="https://twitter.com/NZemfack" target="blank"><img align="center"
-      src="https://i.ibb.co/DQvZ4b0/1-react-2.png"
-      alt="edghi" height="20" width="30" /></a>
-<br>
 <h3>MES STATISTIQUES :</h3>
 
 [![ngimdock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
