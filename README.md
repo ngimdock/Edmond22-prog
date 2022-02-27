@@ -1,4 +1,4 @@
-<h1 align="center">🌎 DÉVELOPPEUR FRONT-END REACT.JS 
+<h1 align="center"🚀 DÉVELOPPEUR FRONT-END REACT.JS 
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h1>
 <h4 align="center">Mon nom est NGIMDOCK ZEMFACK, mais vous pouvez simplement m'appeller DAN 🐻
