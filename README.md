@@ -10,10 +10,13 @@
 - 📩 Envoyez moi un mail **ngimdock.zemfack@facsciences-uy1.cm**
 
 - 📈 Activité secondaire : WEB DESIGN & SEO OPTIMISATION
-  
-<h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
+ 
+<div style="display: flex;">
+  <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
+ 
   <img src="https://i.ibb.co/wCzTBVv/1-react-1.png" alt="1-react-1" border="0" height="55" width="55">
   <img src="https://i.ibb.co/wCzTBVv/1-react-1.png" alt="1-react-1" border="0" height="55" width="55">
+</div>
 <br>
 
 <br>
