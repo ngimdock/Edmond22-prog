@@ -25,7 +25,7 @@
 <br>
 <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
    <a href="https://twitter.com/NZemfack" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://i.ibb.co/DQvZ4b0/1-react-2.png"
       alt="edghi" height="20" width="30" /></a>
 <br>
 <h3>MES STATISTIQUES :</h3>
