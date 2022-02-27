@@ -25,7 +25,7 @@
 <br>
 <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
 
-<!-- ![](https://ibb.co/kXwtKyN)
+![](https://ibb.co/kXwtKyN)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <br>
 <h3>MES STATISTIQUES :</h3>
