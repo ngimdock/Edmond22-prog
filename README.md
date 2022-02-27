@@ -13,9 +13,6 @@
   
 <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
   <img src="https://i.ibb.co/wCzTBVv/1-react-1.png" alt="1-react-1" border="0" height="55" width="55">
-   <a href="https://twitter.com/NZemfack" target="blank"><img align="center"
-      src="https://i.ibb.co/DQvZ4b0/1-react-2.png"
-      alt="edghi" height="20" width="30" /></a>
 <br>
 
 <br>
