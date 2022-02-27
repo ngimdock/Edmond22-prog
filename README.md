@@ -24,10 +24,6 @@
 
 <br>
 <h3 align="left">TECHNOLOGIES UTILIÉES :</h3>
-<a href="https://www.linkedin.com/in/ngimdock-zemfack/" target="blank"><img align="center"
-      src="https://ibb.co/Y7JHYHk"
-      alt="ngimdock zemfack" height="30" width="40" /></a>
-![](https://ibb.co/kXwtKyN)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
