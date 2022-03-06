@@ -2,7 +2,7 @@
 <!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 </h1>
 <h4 align="center">Mon nom est NGIMDOCK ZEMFACK, mais vous pouvez simplement m'appeller DAN 🐻
-<h3 align="center">Je suis un grand passionné du développement frontend</h3>
+<h3 align="center">Je suis un grand passionné du développement web</h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Edghi" /></p>
 
 ▪️ 🌳 Je développe des sites et applications web avec des technologies à la pointe REACT | REDUX | TAILWIND CSS | FIREBASE
