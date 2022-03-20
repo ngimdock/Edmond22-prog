@@ -32,7 +32,6 @@
 </p>
 <br>
 
-<h3>MES STATISTIQUES :</h3>
 
 [![ngimdock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngimdock&count_private=true&show_icons=true&theme=dark)](https://github.com/Edmond22-prog/github-readme-stats)
 
